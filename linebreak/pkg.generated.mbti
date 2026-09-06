@@ -1,0 +1,23 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "GuoXBQ-Q/linebreak"
+
+import {
+  "moonbitlang/core/debug",
+}
+
+// Values
+pub fn linebreaks(String) -> Iter[(Int, BreakOpportunity)]
+
+pub let unicode_version : (Int, Int, Int)
+
+// Errors
+
+// Types and methods
+pub enum BreakOpportunity {
+  Mandatory
+  Allowed
+} derive(Eq, @debug.Debug)
+
+// Type aliases
+
+// Traits

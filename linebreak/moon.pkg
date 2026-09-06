@@ -1,0 +1,2 @@
+// Root package of the linebreak module. Table generator output (tables.mbt)
+// and the pair-table state machine will live alongside linebreak.mbt here.

@@ -1,0 +1,5 @@
+import {
+  "GuoXBQ-Q/textwrap",
+}
+
+pkgtype(kind: "executable")

@@ -1,0 +1,19 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "GuoXBQ-Q/textwrap"
+
+// Values
+pub fn fill(String, width~ : Int, cjk? : Bool) -> String
+
+pub fn indent(String, prefix? : String) -> String
+
+pub fn truncate(String, width~ : Int, ellipsis? : String, cjk? : Bool) -> String
+
+pub fn wrap(String, width~ : Int, cjk? : Bool) -> Array[String]
+
+// Errors
+
+// Types and methods
+
+// Type aliases
+
+// Traits
